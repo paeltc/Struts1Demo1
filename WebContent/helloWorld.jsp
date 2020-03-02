@@ -9,7 +9,7 @@
 </head>
 <body>
 	<h1 style="color: red">
-		<bean:write name="HelloStruts1Form" property="message" />
+		<bean:write name="helloStruts1Form" property="message" />
 	</h1>
 
 </body>
