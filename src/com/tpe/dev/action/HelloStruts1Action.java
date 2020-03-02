@@ -8,7 +8,7 @@ import org.apache.struts.action.ActionForm;
 import org.apache.struts.action.ActionForward;
 import org.apache.struts.action.ActionMapping;
 
-import com.dev.tpe.form.HelloStruts1Form;
+import com.tpe.dev.form.HelloStruts1Form;
 
 public class HelloStruts1Action extends Action{
 	

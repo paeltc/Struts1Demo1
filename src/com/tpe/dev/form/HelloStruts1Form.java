@@ -1,4 +1,4 @@
-package com.dev.tpe.form;
+package com.tpe.dev.form;
 
 import org.apache.struts.action.ActionForm;
 
